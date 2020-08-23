@@ -139,7 +139,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="work1.cpp" />
+    <ClCompile Include="pir2.cpp" />
+    <ClCompile Include="result.cpp" />
+    <ClCompile Include="scanf%28%29.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
